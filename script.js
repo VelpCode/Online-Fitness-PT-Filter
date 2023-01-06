@@ -6,7 +6,17 @@ const listItems = []
 async function getData() {
     const res = await fetch('https://randomuser.me/api?results=50')
 
-    const data = await res.json()
+    const { results } = await res.json()
 
-    console.log(data)
+    // Clear results
+    results.innerHTML = ''
+
+    results.forEach(user => {
+        const li = document.createElement('li')
+
+        listItems.push(li)
+        li.innerHTML = `
+            <img src="${user.picture.large}" alt="${user.name.first}"
+        `
+    })
 }
