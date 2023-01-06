@@ -23,4 +23,51 @@ body {
 .title {
     margin: 0;
 }
+.subtitle {
+    display: inline-block;
+    margin: 5px 0 20px;
+    opacity: 0.8;
+}
 
+.header {
+    background-color: #300177;
+    color: #fff;
+    padding: 30px 20px;
+}
+
+.header input {
+    background-color: rgba(0,0,0,0.3);
+    border: 0;
+    border-radius: 50px;
+    color: #fff;
+    font-size: 14px;
+    padding: 10px 15px;
+    width: 100%
+}
+
+.header input:focus {
+    outline: none;
+}
+
+.user-list {
+    background-color: #fff;
+    list-style-type: none;
+    margin: 0;
+    max-height: 400px;
+    overflow-y: auto;
+}
+.user-list li {
+    display:flex;
+    padding: 20px;
+}
+
+.user-list img {
+    border-radius: 50%;
+    object-fit: cover;
+    height: 50px;
+    width: 50px;
+}
+
+.user-list .user-info {
+    margin-left: 10px;
+}
