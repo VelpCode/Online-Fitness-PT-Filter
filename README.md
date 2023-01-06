@@ -6,6 +6,14 @@
 This application is for individuals that are looking for an Online personal trainer
 that is currently live & ready to help..
 
+### Built Using
+
+* [JavaScript](https://www.javascript.com/)
+* [HTML](https://www.w3schools.com/html/)
+* [CSS](https://web.dev/learn/css/)
+* [FetchAPI](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+* [Giphy API](https://developers.giphy.com/)
+
 ## API Reference
 
 #### Get all items
