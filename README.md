@@ -1,9 +1,9 @@
-# Velpflix - Movie Streaming Site 🎥
+# Online Fitness Personal Trainer Search 🏋️
 ![PT](https://user-images.githubusercontent.com/89810118/211116550-e89dab98-97de-4165-b6f8-e2a457931b0a.png)
 
-# Search your favourite movies 👀
+# Trainers near you! 👀
 
-Inspired from Netflix, created my personal Velpflix logo along with movie-streaming site features. Site still currently in the making 🛠️
+Simple interface for people to look search for personal trainers nearby that are avaliable for hiring.. level up your fitness with this application 💪🔍
 
 ### Built Using
 
@@ -11,10 +11,10 @@ Inspired from Netflix, created my personal Velpflix logo along with movie-stream
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://web.dev/learn/css/)
 * [FetchAPI](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
-* [OMDb API](https://www.omdbapi.com/)
+* [RandomUSERApi](https://randomuser.me/)
 
 ## API Reference
-https://www.omdbapi.com/
+https://randomuser.me/
 #### Get all items
 
 
