@@ -1,10 +1,9 @@
-# Online-Fitness-PT-Filter
+# Velpflix - Movie Streaming Site 🎥
 ![PT](https://user-images.githubusercontent.com/89810118/211116550-e89dab98-97de-4165-b6f8-e2a457931b0a.png)
 
-# Online Fitness PT Search
+# Search your favourite movies 👀
 
-This application is for individuals that are looking for an Online personal trainer
-that is currently live & ready to help..
+Inspired from Netflix, created my personal Velpflix logo along with movie-streaming site features. Site still currently in the making 🛠️
 
 ### Built Using
 
@@ -12,10 +11,10 @@ that is currently live & ready to help..
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://web.dev/learn/css/)
 * [FetchAPI](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
-* [Giphy API](https://developers.giphy.com/)
+* [OMDb API](https://www.omdbapi.com/)
 
 ## API Reference
-
+https://www.omdbapi.com/
 #### Get all items
 
 
